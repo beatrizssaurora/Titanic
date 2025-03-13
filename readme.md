@@ -15,7 +15,7 @@ O conjunto de dados utilizado foi obtido do [Kaggle](https://www.kaggle.com/comp
 
 ### Resultado
 
-![titanic](Imagens\resultado01.png)
+![titanic](imagens/resultado01.png)
 
 A imagem acima representa o resultado da primeira etapa do meu projeto, onde o modelo alcançou uma precisão de 66,74% nas previsões. O desenvolvimento continua em andamento, com o objetivo de aprimorar o modelo e aumentar a taxa de acerto.
 
@@ -39,20 +39,20 @@ Ferramentas:
 
  
  <a href="https://www.linkedin.com/in/beatrizssaurora/">
-  <img width="42px" alt="LinkedIn" title="LinkedIn" src="Imagens/icons8-linkedin-64.png">
+  <img width="42px" alt="LinkedIn" title="LinkedIn" src="imagens/icons8-linkedin-64.png">
 </a>
 <a href="mailto:beatrizssaurora@gmail.com" title="beatrizssaurora@gmail.com">
-  <img width="42px" src="Imagens/icons8-gmail-64.png" alt="Ícone do Gmail">
+  <img width="42px" src="imagens/icons8-gmail-64.png" alt="Ícone do Gmail">
 </a>
 <a href="beatriz02627" alt="Usuário do Discord" title="beatriz02627">
-  <img width="42px" src="Imagens/icons8-logo-discord-64.png" alt="Ícone do Discord">
+  <img width="42px" src="imagens/icons8-logo-discord-64.png" alt="Ícone do Discord">
 </a>
 <a href="https://github.com/beatrizssaurora" alt="Github" title="Github">
-  <img width="42px" src="Imagens/icons8-github-64.png" alt="Github">
+  <img width="42px" src="imagens/icons8-github-64.png" alt="Github">
 </a>
 
 ## Link to Portfolio
 
 <a href="https://my-website-beatriz-santos.netlify.app/" alt="site" title="Portfólio">
-  <img width="64px" src="Imagens/icons8-abrir-no-navegador-64.png" alt="Portfólio">
+  <img width="64px" src="imagens/icons8-abrir-no-navegador-64.png" alt="Portfólio">
 </a>
