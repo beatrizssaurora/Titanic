@@ -15,7 +15,7 @@ O conjunto de dados utilizado foi obtido do [Kaggle](https://www.kaggle.com/comp
 
 ### Resultado
 
-![titanic](Imagens/resultado01.png)
+![titanic](Imagens\resultado01.png)
 
 A imagem acima representa o resultado da primeira etapa do meu projeto, onde o modelo alcançou uma precisão de 66,74% nas previsões. O desenvolvimento continua em andamento, com o objetivo de aprimorar o modelo e aumentar a taxa de acerto.
 
